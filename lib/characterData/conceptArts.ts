@@ -990,14 +990,14 @@ export const conceptArts: Record<string, ConceptArtItem[]> = {
   "broly": [
     {
       "name": "Broly Full Sheet",
-      "path": "/personajes/GUIAS/Secundarios/Broly/Broly_full_sheet.png",
+      "path": "/personajes/GUIAS/Secundarios/Broly/Broly_full_sheet.webp",
       "section": "base",
       "sectionLabel": "Base",
       "isAlt": false
     },
     {
       "name": "Broly Sheet",
-      "path": "/personajes/GUIAS/Secundarios/Broly/Broly_sheet.png",
+      "path": "/personajes/GUIAS/Secundarios/Broly/Broly_sheet.webp",
       "section": "base",
       "sectionLabel": "Base",
       "isAlt": false
@@ -1061,7 +1061,7 @@ export const conceptArts: Record<string, ConceptArtItem[]> = {
   "deadshot": [
     {
       "name": "Deadshot Sheet",
-      "path": "/personajes/GUIAS/Secundarios/Deadshot/Deadshot_sheet.png",
+      "path": "/personajes/GUIAS/Secundarios/Deadshot/Deadshot_sheet.webp",
       "section": "base",
       "sectionLabel": "Base",
       "isAlt": false
@@ -1140,7 +1140,7 @@ export const conceptArts: Record<string, ConceptArtItem[]> = {
   "matapobre": [
     {
       "name": "Matapobres Sheet",
-      "path": "/personajes/GUIAS/Secundarios/Matapobres/MATAPOBRES_sheet.png",
+      "path": "/personajes/GUIAS/Secundarios/Matapobres/MATAPOBRES_sheet.webp",
       "section": "base",
       "sectionLabel": "Base",
       "isAlt": false
@@ -1176,21 +1176,21 @@ export const conceptArts: Record<string, ConceptArtItem[]> = {
   "pistolero_galactico": [
     {
       "name": "Pistolero Galactico Sheet",
-      "path": "/personajes/GUIAS/Secundarios/Pistolero galactico/Pistolero galactico_sheet.png",
+      "path": "/personajes/GUIAS/Secundarios/Pistolero galactico/Pistolero galactico_sheet.webp",
       "section": "base",
       "sectionLabel": "Base",
       "isAlt": false
     },
     {
       "name": "Pistolero Galactico Sheet1",
-      "path": "/personajes/GUIAS/Secundarios/Pistolero galactico/Pistolero galactico_sheet1.png",
+      "path": "/personajes/GUIAS/Secundarios/Pistolero galactico/Pistolero galactico_sheet1.webp",
       "section": "base",
       "sectionLabel": "Base",
       "isAlt": false
     },
     {
       "name": "Pistolero Galactico Sheet2",
-      "path": "/personajes/GUIAS/Secundarios/Pistolero galactico/Pistolero galactico_sheet2.png",
+      "path": "/personajes/GUIAS/Secundarios/Pistolero galactico/Pistolero galactico_sheet2.webp",
       "section": "base",
       "sectionLabel": "Base",
       "isAlt": false
