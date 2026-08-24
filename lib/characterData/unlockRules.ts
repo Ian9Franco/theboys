@@ -80,5 +80,10 @@ export const UNLOCK_RULES: Record<string, string[]> = {
   tinker: [],
   alienigenas_gorrnek: [],
   piratas_espaciales: [],
-  celestial: []
+  celestial: [],
+  broly: [],
+  deadshot: [],
+  pirata_capitan: [],
+  pistolero_galactico: [],
+  venganza: []
 };

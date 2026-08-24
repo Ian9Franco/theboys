@@ -1036,5 +1036,125 @@ export const secundarios: CharacterDetail[] = [
       crisis: 'Debilidad o crisis al usar su poder.',
       stats: { fuerza: 6, inteligencia: 6, carisma: 6, suerte: 6, combate: 6, defensa: 6, especialVal: 6 }
     }
+  },
+  {
+    id: 'broly',
+    name: 'Broly',
+    category: 'secundarios',
+    isSecondary: true,
+    image: '/personajes/PORTADAS/Broly/Broly.webp',
+    fullBody: '/personajes/PORTADAS/Broly/Broly.webp',
+    color: '#6b7280',
+    role: 'Nuevo Personaje',
+    visualCode: 'Descripción visual base',
+    perfil: [
+      'Detalle de perfil 1: Escribe aquí sobre el personaje.',
+      'Detalle de perfil 2: Escribe aquí sobre el personaje.',
+      'Detalle de perfil 3: Escribe aquí sobre el personaje.'
+    ],
+    crisis: 'Descripción de su momento de crisis o debilidad.',
+    stats: { fuerza: 5, inteligencia: 5, carisma: 5, suerte: 5, combate: 5, defensa: 5, especialVal: 5 },
+    especialLabel: 'Poder Único',
+    powers: {
+      role: 'Rol de Poder',
+      habilidades: [
+        'Habilidad 1: Descripción de la habilidad.',
+        'Habilidad 2: Descripción de la habilidad.',
+        'Habilidad 3: Descripción de la habilidad.'
+      ],
+      significa: 'Qué significa su poder en combate.',
+      crisis: 'Debilidad o crisis al usar su poder.',
+      stats: { fuerza: 6, inteligencia: 6, carisma: 6, suerte: 6, combate: 6, defensa: 6, especialVal: 6 }
+    }
+  },
+  {
+    id: 'deadshot',
+    name: 'Deadshot',
+    category: 'secundarios',
+    isSecondary: true,
+    image: '/personajes/PORTADAS/Deadshot/Deadshot.webp',
+    fullBody: '/personajes/PORTADAS/Deadshot/Deadshot.webp',
+    color: '#6b7280',
+    role: 'Nuevo Personaje',
+    visualCode: 'Descripción visual base',
+    perfil: [
+      'Detalle de perfil 1: Escribe aquí sobre el personaje.',
+      'Detalle de perfil 2: Escribe aquí sobre el personaje.',
+      'Detalle de perfil 3: Escribe aquí sobre el personaje.'
+    ],
+    crisis: 'Descripción de su momento de crisis o debilidad.',
+    stats: { fuerza: 5, inteligencia: 5, carisma: 5, suerte: 5, combate: 5, defensa: 5, especialVal: 5 },
+    especialLabel: 'Poder Único',
+    powers: {
+      role: 'Rol de Poder',
+      habilidades: [
+        'Habilidad 1: Descripción de la habilidad.',
+        'Habilidad 2: Descripción de la habilidad.',
+        'Habilidad 3: Descripción de la habilidad.'
+      ],
+      significa: 'Qué significa su poder en combate.',
+      crisis: 'Debilidad o crisis al usar su poder.',
+      stats: { fuerza: 6, inteligencia: 6, carisma: 6, suerte: 6, combate: 6, defensa: 6, especialVal: 6 }
+    }
+  },
+  {
+    id: 'pirata_capitan',
+    name: 'Pirata Capitan',
+    category: 'secundarios',
+    isSecondary: true,
+    image: '/personajes/PORTADAS/Pirata Capitan/Pirata Capitan.webp',
+    fullBody: '/personajes/PORTADAS/Pirata Capitan/Pirata Capitan.webp',
+    color: '#6b7280',
+    role: 'Nuevo Personaje',
+    visualCode: 'Descripción visual base',
+    perfil: [
+      'Detalle de perfil 1: Escribe aquí sobre el personaje.',
+      'Detalle de perfil 2: Escribe aquí sobre el personaje.',
+      'Detalle de perfil 3: Escribe aquí sobre el personaje.'
+    ],
+    crisis: 'Descripción de su momento de crisis o debilidad.',
+    stats: { fuerza: 5, inteligencia: 5, carisma: 5, suerte: 5, combate: 5, defensa: 5, especialVal: 5 },
+    especialLabel: 'Poder Único',
+    powers: {
+      role: 'Rol de Poder',
+      habilidades: [
+        'Habilidad 1: Descripción de la habilidad.',
+        'Habilidad 2: Descripción de la habilidad.',
+        'Habilidad 3: Descripción de la habilidad.'
+      ],
+      significa: 'Qué significa su poder en combate.',
+      crisis: 'Debilidad o crisis al usar su poder.',
+      stats: { fuerza: 6, inteligencia: 6, carisma: 6, suerte: 6, combate: 6, defensa: 6, especialVal: 6 }
+    }
+  },
+  {
+    id: 'pistolero_galactico',
+    name: 'Pistolero galactico',
+    category: 'secundarios',
+    isSecondary: true,
+    image: '/personajes/PORTADAS/Pistolero galactico/Pistolero galactico.webp',
+    fullBody: '/personajes/PORTADAS/Pistolero galactico/Pistolero galactico.webp',
+    color: '#6b7280',
+    role: 'Nuevo Personaje',
+    visualCode: 'Descripción visual base',
+    perfil: [
+      'Detalle de perfil 1: Escribe aquí sobre el personaje.',
+      'Detalle de perfil 2: Escribe aquí sobre el personaje.',
+      'Detalle de perfil 3: Escribe aquí sobre el personaje.'
+    ],
+    crisis: 'Descripción de su momento de crisis o debilidad.',
+    stats: { fuerza: 5, inteligencia: 5, carisma: 5, suerte: 5, combate: 5, defensa: 5, especialVal: 5 },
+    especialLabel: 'Poder Único',
+    powers: {
+      role: 'Rol de Poder',
+      habilidades: [
+        'Habilidad 1: Descripción de la habilidad.',
+        'Habilidad 2: Descripción de la habilidad.',
+        'Habilidad 3: Descripción de la habilidad.'
+      ],
+      significa: 'Qué significa su poder en combate.',
+      crisis: 'Debilidad o crisis al usar su poder.',
+      stats: { fuerza: 6, inteligencia: 6, carisma: 6, suerte: 6, combate: 6, defensa: 6, especialVal: 6 }
+    }
   }
 ];

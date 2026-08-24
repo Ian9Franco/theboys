@@ -130,6 +130,14 @@ export const characterImages: Record<string, CharacterImages> = {
       "/personajes/Fichas/Secundarios/Bristleback/Bristleback_ficha.webp",
     ]
   },
+  "broly": {
+    "portada": null,
+    "portadas": [
+    ],
+    "ficha": null,
+    "fichas": [
+    ]
+  },
   "brooke": {
     "portada": null,
     "portadas": [
@@ -206,6 +214,14 @@ export const characterImages: Record<string, CharacterImages> = {
     "ficha": "/personajes/Fichas/Secundarios/Daichi&Ren/Daichi&Ren_ficha.webp",
     "fichas": [
       "/personajes/Fichas/Secundarios/Daichi&Ren/Daichi&Ren_ficha.webp",
+    ]
+  },
+  "deadshot": {
+    "portada": null,
+    "portadas": [
+    ],
+    "ficha": null,
+    "fichas": [
     ]
   },
   "demonios": {
@@ -531,7 +547,23 @@ export const characterImages: Record<string, CharacterImages> = {
       "/personajes/Fichas/antagonistas/Phobos/Phobos_ficha.webp",
     ]
   },
+  "pirata_capitan": {
+    "portada": null,
+    "portadas": [
+    ],
+    "ficha": null,
+    "fichas": [
+    ]
+  },
   "piratas_espaciales": {
+    "portada": null,
+    "portadas": [
+    ],
+    "ficha": null,
+    "fichas": [
+    ]
+  },
+  "pistolero_galactico": {
     "portada": null,
     "portadas": [
     ],
@@ -674,6 +706,14 @@ export const characterImages: Record<string, CharacterImages> = {
     "ficha": "/personajes/Fichas/Secundarios/Valery/Valery_ficha.webp",
     "fichas": [
       "/personajes/Fichas/Secundarios/Valery/Valery_ficha.webp",
+    ]
+  },
+  "venganza": {
+    "portada": null,
+    "portadas": [
+    ],
+    "ficha": null,
+    "fichas": [
     ]
   },
   "vexa": {
