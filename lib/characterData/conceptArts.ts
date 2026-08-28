@@ -240,34 +240,6 @@ export const conceptArts: Record<string, ConceptArtItem[]> = {
   ],
   "uandi": [
     {
-      "name": "Aegis Full Sheet",
-      "path": "/personajes/GUIAS/boyz/AEGIS/aegis full_sheet.webp",
-      "section": "base",
-      "sectionLabel": "Base",
-      "isAlt": false
-    },
-    {
-      "name": "Aegis Alt Sheet",
-      "path": "/personajes/GUIAS/boyz/AEGIS/aegis_alt_sheet.webp",
-      "section": "base",
-      "sectionLabel": "Base",
-      "isAlt": false
-    },
-    {
-      "name": "Aegis Newalt Sheet",
-      "path": "/personajes/GUIAS/boyz/AEGIS/Aegis_newalt_sheet.webp",
-      "section": "base",
-      "sectionLabel": "Base",
-      "isAlt": false
-    },
-    {
-      "name": "Aegis New Sheet",
-      "path": "/personajes/GUIAS/boyz/AEGIS/Aegis_new_sheet.webp",
-      "section": "base",
-      "sectionLabel": "Base",
-      "isAlt": false
-    },
-    {
       "name": "Aegis New Sheet Alt",
       "path": "/personajes/GUIAS/boyz/AEGIS/aegis_new_sheet_alt.webp",
       "section": "base",
@@ -282,20 +254,6 @@ export const conceptArts: Record<string, ConceptArtItem[]> = {
       "isAlt": false
     },
     {
-      "name": "Uandi Alt2 Sheet",
-      "path": "/personajes/GUIAS/boyz/AEGIS/uandi_alt2_sheet.webp",
-      "section": "base",
-      "sectionLabel": "Base",
-      "isAlt": false
-    },
-    {
-      "name": "Uandi Combat Sheet",
-      "path": "/personajes/GUIAS/boyz/AEGIS/uandi_combat_sheet.webp",
-      "section": "base",
-      "sectionLabel": "Base",
-      "isAlt": false
-    },
-    {
       "name": "Uandi New Sheet",
       "path": "/personajes/GUIAS/boyz/AEGIS/uandi_new_sheet.webp",
       "section": "base",
@@ -303,25 +261,74 @@ export const conceptArts: Record<string, ConceptArtItem[]> = {
       "isAlt": false
     },
     {
+      "name": "Aegis Full Sheet",
+      "path": "/personajes/GUIAS/boyz/AEGIS/old/aegis full_sheet.webp",
+      "section": "old",
+      "sectionLabel": "Old",
+      "isAlt": true
+    },
+    {
+      "name": "Aegis Alt Sheet",
+      "path": "/personajes/GUIAS/boyz/AEGIS/old/aegis_alt_sheet.webp",
+      "section": "old",
+      "sectionLabel": "Old",
+      "isAlt": true
+    },
+    {
+      "name": "Aegis Newalt Sheet",
+      "path": "/personajes/GUIAS/boyz/AEGIS/old/Aegis_newalt_sheet.webp",
+      "section": "old",
+      "sectionLabel": "Old",
+      "isAlt": true
+    },
+    {
+      "name": "Aegis New Sheet",
+      "path": "/personajes/GUIAS/boyz/AEGIS/old/Aegis_new_sheet.webp",
+      "section": "old",
+      "sectionLabel": "Old",
+      "isAlt": true
+    },
+    {
+      "name": "Aegis Sheet",
+      "path": "/personajes/GUIAS/boyz/AEGIS/old/Aegis_sheet.webp",
+      "section": "old",
+      "sectionLabel": "Old",
+      "isAlt": true
+    },
+    {
+      "name": "Uandi Alt2 Sheet",
+      "path": "/personajes/GUIAS/boyz/AEGIS/old/uandi_alt2_sheet.webp",
+      "section": "old",
+      "sectionLabel": "Old",
+      "isAlt": true
+    },
+    {
+      "name": "Uandi Combat Sheet",
+      "path": "/personajes/GUIAS/boyz/AEGIS/old/uandi_combat_sheet.webp",
+      "section": "old",
+      "sectionLabel": "Old",
+      "isAlt": true
+    },
+    {
       "name": "Uandi Sheet",
-      "path": "/personajes/GUIAS/boyz/AEGIS/uandi_sheet.webp",
-      "section": "base",
-      "sectionLabel": "Base",
-      "isAlt": false
+      "path": "/personajes/GUIAS/boyz/AEGIS/old/uandi_sheet.webp",
+      "section": "old",
+      "sectionLabel": "Old",
+      "isAlt": true
     },
     {
       "name": "Uandi Sheet Alt",
-      "path": "/personajes/GUIAS/boyz/AEGIS/uandi_sheet_alt.webp",
-      "section": "base",
-      "sectionLabel": "Base",
-      "isAlt": false
+      "path": "/personajes/GUIAS/boyz/AEGIS/old/uandi_sheet_alt.webp",
+      "section": "old",
+      "sectionLabel": "Old",
+      "isAlt": true
     },
     {
       "name": "Uandi To Aegis Sheet",
-      "path": "/personajes/GUIAS/boyz/AEGIS/Uandi_to_Aegis_sheet.webp",
-      "section": "base",
-      "sectionLabel": "Base",
-      "isAlt": false
+      "path": "/personajes/GUIAS/boyz/AEGIS/old/Uandi_to_Aegis_sheet.webp",
+      "section": "old",
+      "sectionLabel": "Old",
+      "isAlt": true
     }
   ],
   "julian": [
