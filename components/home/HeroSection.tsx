@@ -17,7 +17,7 @@ export function HeroSection() {
         {/* ── Full Banner Background Image ── */}
         <div className="absolute inset-0 z-0 pointer-events-auto">
           <img 
-            src="/personajes/group banner/Teamup.webp" 
+            src="/Teamup.webp" 
             alt="Elseframe Teamup" 
             className="w-full h-full object-cover opacity-85 grayscale-[0.1] hero-banner-img"
           />
@@ -58,7 +58,7 @@ export function HeroSection() {
       <AnimatePresence>
         {showLightbox && (
           <BannerLightbox 
-            src="/personajes/group banner/Teamup.webp" 
+            src="/Teamup.webp" 
             alt="Elseframe Teamup" 
             onClose={() => setShowLightbox(false)} 
           />
