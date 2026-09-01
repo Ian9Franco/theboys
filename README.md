@@ -209,6 +209,20 @@ Para vincular un nuevo personaje al progreso de lectura del usuario:
 
 ---
 
-## 📜 Licencia y Créditos
+## 📜 Licencia, Autor y Créditos
 
-Creado y desarrollado por **Ian Franco** y el equipo de **Elseframe Comics**. Todos los derechos reservados sobre personajes, universos, guiones y diseños visuales.
+Creado, escrito y desarrollado con pasión por **Ian Franco (Collada Pontorno)** y el equipo de **Elseframe Comics**. Todos los derechos reservados sobre personajes, universos, guiones y diseños visuales.
+
+<div align="center">
+  <br />
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Ian_Franco-00b8d4?style=for-the-badge&logo=vercel&logoColor=white)](https://ian-pontorno-portfolio.vercel.app/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Ian9Franco-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ian9Franco)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ian_Franco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ar.linkedin.com/in/ian-franco-collada-pontorno)
+  [![Instagram](https://img.shields.io/badge/Instagram-@ian.franco._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ian.franco._/)
+
+  <br /><br />
+
+  **[🌐 Portfolio Web](https://ian-pontorno-portfolio.vercel.app/)** • **[🐙 GitHub (@Ian9Franco)](https://github.com/Ian9Franco)** • **[💼 LinkedIn](https://ar.linkedin.com/in/ian-franco-collada-pontorno)** • **[📸 Instagram (@ian.franco._)](https://www.instagram.com/ian.franco._/)**
+
+</div>
